@@ -1,0 +1,6 @@
+config_file: "C:\\code\\project\\ai_certification\\yolo-pose\\runs\\pose\\train5\\weights\\best.pt"
+display_name: YOLO-Pose-Custom
+download_url: https://github.com/alsrlwjs56/yolo-pose-custom/blob/main/train5/weights/best.pt
+has_downloaded: false
+is_custom_model: true
+name: yolo-pose-custom
